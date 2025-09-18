@@ -37,10 +37,9 @@ It allows users to perform basic arithmetic operations with a clean and user-fri
    cd calculator-app
 ````
 
-2. **Run the app**
+2. ## 🚀 Live Demo
+🔗 [View on Vercel](https://calculator-beta-indol-16.vercel.app/)
 
-   * Open the `index.html` file in your browser 🌍
-   * No Node.js or npm required
 
 ---
 
@@ -72,3 +71,4 @@ You’re free to use, modify, and share it.
 ## ✨ Author
 
 Developed with ❤️ by [**Mahmoud Rabea Assaf**](https://github.com/mahmoudrabea321).
+
