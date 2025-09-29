@@ -1,4 +1,4 @@
-Nice 🔢➗✖️ your **6th project** is a **Calculator App (JavaScript)**.
+3Nice 🔢➗✖️ your **6th project** is a **Calculator App (JavaScript)**.
 Here’s a clean and professional **`README.md`** for it:
 
 ---
@@ -53,13 +53,7 @@ calculator-app/
 │-- README.md
 ```
 
----
 
-## 📸 Screenshots
-
-*Add a screenshot of your calculator UI here (example: 2 + 2 = 4).*
-
----
 
 ## 📜 License
 
@@ -71,4 +65,5 @@ You’re free to use, modify, and share it.
 ## ✨ Author
 
 Developed with ❤️ by [**Mahmoud Rabea Assaf**](https://github.com/mahmoudrabea321).
+
 
